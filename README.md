@@ -33,6 +33,16 @@ npm start
 * Axios,
 * ESLint + Prettier
 
+## Użyte technologie
+
+Technologie użyte w projekcie
+React.js – główny framework do budowy interfejsu użytkownika
+Redux (Redux Toolkit) – zarządzanie globalnym stanem aplikacji
+React Router – obsługa nawigacji między stronami
+Axios – komunikacja z API (OpenWeatherMap)
+Vite – narzędzie do budowania i uruchamiania aplikacji
+ESLint + Prettier – narzędzia do utrzymania wysokiej jakości kodu
+
 ## Struktura katalogów
 
 * `components` - katalog zawierający pomniejsze komponenty, które mogą zostać wykorzystane do budowy podstron aplikacji,
